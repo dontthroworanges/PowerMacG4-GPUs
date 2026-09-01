@@ -1,7 +1,9 @@
-## ATI Radeon 7500 32Mb
+## ATI Radeon 7500 32MB
 ```
-Results	41.82	
-	Video Card		ATY,RV200
+XBench Results	41.82	
+
+System Info
+	Video Card	ATY,RV200
 Quartz Graphics Test	39.52	
 	Line	35.36	2.35 Klines/sec [50% alpha]
 	Rectangle	32.93	9.83 Krects/sec [50% alpha]

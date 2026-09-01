@@ -1,7 +1,9 @@
-## ATI Radeon 9000 PRO 64Mb
+## ATI Radeon 9000 PRO 64MB
 ```
-Results	40.59	
-	Video Card		ATY,RV250
+XBench Results	40.59
+
+System Info
+	Video Card	ATY,RV250
 Quartz Graphics Test	43.47	
 	Line	43.87	2.92 Klines/sec [50% alpha]
 	Rectangle	39.65	11.84 Krects/sec [50% alpha]

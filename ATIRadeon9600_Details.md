@@ -1,9 +1,11 @@
-## ATI Radeon 9600 128Mb
+## ATI Radeon 9600 128MB
 > [!Note] 
 > To use this card in a PowerMac G4, you must disable AGP Pins 3 & 11. 
 ```
-Results	44.06	
-	Video Card		ATY,RV351
+XBench Results	44.06
+
+System Info
+	Video Card	ATY,RV351
 Quartz Graphics Test	44.91	
 	Line	41.09	2.74 Klines/sec [50% alpha]
 	Rectangle	42.91	12.81 Krects/sec [50% alpha]
