@@ -9,4 +9,5 @@ Collection of benchmarks and information about GPUs for vintage Apple PowerMac G
 | ATI Radeon 9600 PRO | 64MB | YES | 44.50 | AGP Pins 3 & 11 Disabled
 | nVidia GeForce 3 | 64MB | YES | 38.81 |
 | nVidia GeForce 4 MX | 32MB | YES | 43.02 |
+| nVidia GeForce 2 MX Twin View | 64MB | YES | 39.22 |
 
