@@ -15,3 +15,5 @@ OpenGL Graphics Test	59.48
 User Interface Test	33.76	
 		Elements	33.76	154.95 refresh/sec
 ```
+### Links
+[TechPowerUp GPU Technical Information](https://www.techpowerup.com/gpu-specs/radeon-7500.c645)
