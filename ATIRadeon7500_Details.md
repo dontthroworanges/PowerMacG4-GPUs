@@ -1,7 +1,8 @@
 ## ATI Radeon 7500 32MB
 ### Links
-[TechPowerUp GPU Technical Information](https://www.techpowerup.com/gpu-specs/radeon-7500.c645)
-### XBench Results
+- [TechPowerUp GPU Technical Information](https://www.techpowerup.com/gpu-specs/radeon-7500.c645)  
+- [G4 Cube 3D Printable Bracket](https://www.thingiverse.com/thing:1665153)  
+### XBench Results - 41.82
 ```
 XBench Results	41.82	
 
@@ -18,7 +19,7 @@ OpenGL Graphics Test	59.48
 User Interface Test	33.76	
 		Elements	33.76	154.95 refresh/sec
 ```
-### OpenMark Results
+### OpenMark Results - 415
 ```
 OpenMark started...
  workdfolder: /Applications/OpenMark/
