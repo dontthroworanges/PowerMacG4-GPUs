@@ -1,4 +1,4 @@
-## ATI Radeon 7500 32MB
+# ATI Radeon 7500 32MB
 ### Links
 - [TechPowerUp GPU Technical Information](https://www.techpowerup.com/gpu-specs/radeon-7500.c645)  
 - [G4 Cube 3D Printable Bracket](https://www.thingiverse.com/thing:1665153)  
