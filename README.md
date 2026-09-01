@@ -3,8 +3,8 @@ Collection of benchmarks and information about GPUs for vintage Apple PowerMac G
 
 | Model | VRAM | OEM | XBench Score | Notes |
 | ----- | ---- | --- | ----- | ----
-| ATI Radeon 7500 | 32MB | YES | 41.82 |
-| ATI Radeon 9000 PRO | 64MB | YES | 40.59 |
+| [ATI Radeon 7500](/ATIRadeon7500_Details.md) | 32MB | YES | 41.82 |
+| [ATI Radeon 9000 PRO](/ATIRadeon9000Pro_Details.md) | 64MB | YES | 40.59 |
 | ATI Radeon 9600 | 128MB | YES | 44.06 | AGP Pins 3 & 11 Disabled
 | ATI Radeon 9600 PRO | 64MB | YES | 44.50 | AGP Pins 3 & 11 Disabled
 | nVidia GeForce 3 | 64MB | YES | 38.81 |
