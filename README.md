@@ -1,5 +1,6 @@
 # PowerMac G4 GPU Benchmarks
 Collection of benchmarks and information about GPUs for vintage Apple PowerMac G4 computers. Benchmarks ran with a PowerMac G4 "Quicksilver" Dual 867mhz (Dual 800 Overclocked), 1.5Gb SDRAM 133, 128Gb SSD, OSX "Tiger" 10.4.11.
+## Results Table
 
 | Model | VRAM | OEM | XBench | OpenMark | Notes |
 | ----- | ---- | --- | ----- | ---- | ----
