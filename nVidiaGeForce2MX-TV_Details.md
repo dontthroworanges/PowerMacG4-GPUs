@@ -1,4 +1,9 @@
 # nVidia GeForce 2 MX Twin-View 64MB
+### Part Numbers
+|    | Serial Number | Apple Part Number|
+| --- | ------------| -------------|
+|1 | VZ133099HLFMA | 630-3674 |
+|2 | VZ133099HL35A | 600-9090 |
 ### Links
 - [TechPowerUp GPU Technical Information](https://www.techpowerup.com/gpu-specs/geforce2-mx.c792)
 

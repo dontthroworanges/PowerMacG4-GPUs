@@ -1,4 +1,9 @@
 # nVidia GeForce 3 64MB
+### Part Numbers
+|    | Serial Number | Apple Part Number|
+| --- | ------------| -------------|
+|1 | VZ13301A2LN1A | 600-9439 |
+|2 | VZ13301A2LWVA | 600-3781|
 ### Links
 - [TechPowerUp GPU Technical Information](https://www.techpowerup.com/gpu-specs/geforce3.c738)
 

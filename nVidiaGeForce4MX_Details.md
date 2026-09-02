@@ -1,4 +1,9 @@
 # nVidia GeForce 4 MX 32MB
+### Part Numbers
+|    | Serial Number | Apple Part Number|
+| --- | ------------| -------------|
+|1 | VZ2310F0N50A | 603-1263 |
+|2 | VZ23107F0N4ZA | 630-4023 |
 ### Links
 - [TechPowerUp GPU Technical Info](https://www.techpowerup.com/gpu-specs/geforce4-mx-440.c781)  
 ### XBench Results - 43.02	

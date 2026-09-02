@@ -1,5 +1,10 @@
 # ATI Radeon 7500 32MB
 > Works within a G4 Cube without modification or VRM relocation. Does not work with the standard Cube GPU mounting bracket. Please see the link below to print a compatible bracket. 
+### Part Numbers
+|    | Serial Number | Apple Part Number|
+| --- | ------------| -------------|
+|1 | TN2176216M44C | 603-0134 |
+|2 | TN2176216MK1A | 630-3913 |
 ### Links
 - [TechPowerUp GPU Technical Information](https://www.techpowerup.com/gpu-specs/radeon-7500.c645)  
 - [G4 Cube 3D Printable Bracket](https://www.thingiverse.com/thing:1665153)  

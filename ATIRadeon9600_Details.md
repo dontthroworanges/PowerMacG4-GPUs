@@ -1,6 +1,11 @@
 # ATI Radeon 9600 128MB
 > [!Note] 
 > To use this card in a PowerMac G4, you must disable AGP Pins 3 & 11.
+### Part Numbers
+|    | Serial Number | Apple Part Number|
+| --- | ------------| -------------|
+|1 | D0529067WTWGB | 631-0119 |
+|2 | D0529067WTWMB | 630-7231 |
 ### Links
 - [TechPowerUp GPU Technical Information](https://www.techpowerup.com/gpu-specs/radeon-9600.c469)
 

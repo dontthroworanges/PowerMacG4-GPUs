@@ -1,5 +1,12 @@
 # ATI Radeon 9000 PRO 64MB
 > Note - The Apple variant of this card only includes 64MB of VRAM.
+### Part Numbers
+|    | Serial Number | Apple Part Number|
+| --- | ------------| -------------|
+|1 | D031800KFNK5A | 603-1989 |
+|2 | D031800KFPJ0A | 630-4693 |
+|3 | TN23664QRNGUA | 603-1906 |
+|4 | TN23664QRNGVA | 630-4304 |
 ### Links
 - [TechPowerUp GPU Technical Information](https://www.techpowerup.com/gpu-specs/radeon-9000-pro.c80)
 
